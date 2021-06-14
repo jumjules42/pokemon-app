@@ -7,7 +7,7 @@ const FILTER_BY_ORIGIN_API = 'FILTER_BY_ORIGIN_API';
 const FILTER_BY_ORIGIN_USER = 'FILTER_BY_ORIGIN_USER';
 const FILTER_BY_TYPE = 'FILTER_BY_TYPE';
 
-const SERVER_URL = 'http://localhost:3001';
+const SERVER_URL = 'https://pokedex-back-jv.herokuapp.com';
 const LIMIT = 500;
 
 export {
